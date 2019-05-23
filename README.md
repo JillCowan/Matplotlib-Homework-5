@@ -12,7 +12,7 @@ The data files were read and manipulated using Pandas and subsequently plotted w
   a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate),
   a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
   
-The results are displayed on a webpage using HTML, CSS and Bootstrap.
+The results are displayed on a webpage using HTML, CSS and Bootstrap.  To view, please visit https://jillcowan.github.io/Pymaceuticals/
 
 
 
